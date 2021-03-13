@@ -7,3 +7,6 @@ The weight functions for the following numerations systems can be seen:
 - base <img src="https://latex.codecogs.com/svg.latex?\small\.i\sqrt{3}" title="i\sqrt{3}" /> and alphabet <img src="https://latex.codecogs.com/svg.latex?\small\{0,1,-1,\rho,\rho^2,-\rho,-\rho^2\}" title="\{0,1,-1,\rho,\rho^2,-\rho,-\rho^2\}" /> where <img src="https://latex.codecogs.com/svg.latex?\small\rho=" title="\rho=" /> <img src="https://latex.codecogs.com/svg.latex?\scriptstyle\frac{+1+i\sqrt{3}}{2}" title="\frac{+1+i\sqrt{3}}{2}" />
 - bases <img src="https://latex.codecogs.com/svg.latex?\scriptstyle\frac{\pm3+i\sqrt{3}}{2}" title="\frac{\pm3+i\sqrt{3}}{2}" /> and alphabet  <img src="https://latex.codecogs.com/svg.latex?\small\{0,1,-1,\rho,\rho^2,-\rho,-\rho^2\}" title="\{0,1,-1,\rho,\rho^2,-\rho,-\rho^2\}" />
 - bases <img src="https://latex.codecogs.com/svg.latex?\scriptstyle\frac{\pm1+i\sqrt{7}}{2}" title="\frac{\pm1+i\sqrt{7}}{2}" /> and alphabet <img src="https://latex.codecogs.com/svg.latex?\small\{-1,0,1\}" title="\{-1,0,1\}" />
+
+Since some of the weight functions are too big, they are divided into several parts which are in the same folder. 
+Most of the files are rendered directly on this page.
